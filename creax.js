@@ -54,10 +54,10 @@ const creax20 = new Discord.Client();
 
 creax1.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
+    const streamOptions = { seek: 5, volume: 5 };
     var kanal = msg.member.voiceChannel;
     kanal.join().then(connection => {
-      const stream = ytdl("", {
+      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
         filter: "audioonly"
       })
       const dispatcher = connection.playStream(stream, streamOptions);
@@ -111,7 +111,7 @@ creax5.on("message", async msg => {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("s", {
+      const stream = ytdl("", {
         filter: "audioonly"
       });
       const dispatcher = connection.playStream(stream, streamOptions);
@@ -316,7 +316,7 @@ creax20.on("message", async msg => {
 
 
 
-creax1.login("TOKEN");
+creax1.login("NzEwMTY3Nzg2NDYyMzgwMTAy.XrwhwA.OzyAD9f-ahKBtd3D8InhVbMqwbM");
 creax2.login("TOKEN");
 creax3.login("TOKEN");
 creax4.login("TOKEN");
