@@ -29,30 +29,30 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const data = new Map();
 
-const swisha1 = new Discord.Client();
-const swisha2 = new Discord.Client();
-const swisha3 = new Discord.Client();
-const swisha4 = new Discord.Client();
-const swisha5 = new Discord.Client();
-const swisha6 = new Discord.Client();
-const swisha7 = new Discord.Client();
-const swisha8 = new Discord.Client();
-const swisha9 = new Discord.Client();
-const swisha10 = new Discord.Client();
-const swisha11 = new Discord.Client();
-const swisha12 = new Discord.Client();
-const swisha13 = new Discord.Client();
-const swisha14 = new Discord.Client();
-const swisha15 = new Discord.Client();
-const swisha16 = new Discord.Client();
-const swisha17 = new Discord.Client();
-const swisha18 = new Discord.Client();
-const swisha19 = new Discord.Client();
-const swisha20 = new Discord.Client();
+const creax1 = new Discord.Client();
+const creax2 = new Discord.Client();
+const creax3 = new Discord.Client();
+const creax4 = new Discord.Client();
+const creax5 = new Discord.Client();
+const creax6 = new Discord.Client();
+const creax7 = new Discord.Client();
+const creax8 = new Discord.Client();
+const creax9 = new Discord.Client();
+const creax10 = new Discord.Client();
+const creax11 = new Discord.Client();
+const creax12 = new Discord.Client();
+const creax13 = new Discord.Client();
+const creax14 = new Discord.Client();
+const creax15 = new Discord.Client();
+const creax16 = new Discord.Client();
+const creax17 = new Discord.Client();
+const creax18 = new Discord.Client();
+const creax19 = new Discord.Client();
+const creax20 = new Discord.Client();
 
 
 
-swisha1.on("message", async msg => {
+creax1.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var kanal = msg.member.voiceChannel;
@@ -67,7 +67,7 @@ swisha1.on("message", async msg => {
 
 
 
-swisha2.on("message", async msg => {
+creax2.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -80,7 +80,7 @@ swisha2.on("message", async msg => {
   }
 });
 
-swisha3.on("message", async msg => {
+creax3.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -93,7 +93,7 @@ swisha3.on("message", async msg => {
   }
 });
 
-swisha4.on("message", async msg => {
+creax4.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -106,7 +106,7 @@ swisha4.on("message", async msg => {
   }
 });
 
-swisha5.on("message", async msg => {
+creax5.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -119,7 +119,7 @@ swisha5.on("message", async msg => {
   }
 });
 
-swisha6.on("message", async msg => {
+creax6.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 1500 };
     var voiceChannel = msg.member.voiceChannel;
@@ -132,7 +132,7 @@ swisha6.on("message", async msg => {
   }
 });
 
-swisha7.on("message", async msg => {
+creax7.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 1500 };
     var voiceChannel = msg.member.voiceChannel;
@@ -145,7 +145,7 @@ swisha7.on("message", async msg => {
   }
 });
 
-swisha8.on("message", async msg => {
+creax8.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -158,7 +158,7 @@ swisha8.on("message", async msg => {
   }
 });
 
-swisha9.on("message", async msg => {
+creax9.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -171,7 +171,7 @@ swisha9.on("message", async msg => {
   }
 });
 
-swisha10.on("message", async msg => {
+creax10.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -184,7 +184,7 @@ swisha10.on("message", async msg => {
   }
 });
 
-swisha11.on("message", async msg => {
+creax11.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -197,7 +197,7 @@ swisha11.on("message", async msg => {
   }
 });
 
-swisha12.on("message", async msg => {
+creax12.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -210,7 +210,7 @@ swisha12.on("message", async msg => {
   }
 });
 
-swisha13.on("message", async msg => {
+creax13.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -223,7 +223,7 @@ swisha13.on("message", async msg => {
   }
 });
 
-swisha14.on("message", async msg => {
+creax14.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -236,7 +236,7 @@ swisha14.on("message", async msg => {
   }
 });
 
-swisha15.on("message", async msg => {
+creax15.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -249,7 +249,7 @@ swisha15.on("message", async msg => {
   }
 });
 
-swisha16.on("message", async msg => {
+creax16.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 1500 };
     var voiceChannel = msg.member.voiceChannel;
@@ -262,7 +262,7 @@ swisha16.on("message", async msg => {
   }
 });
 
-swisha17.on("message", async msg => {
+creax17.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -275,7 +275,7 @@ swisha17.on("message", async msg => {
   }
 });
 
-swisha18.on("message", async msg => {
+creax18.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -288,7 +288,7 @@ swisha18.on("message", async msg => {
   }
 });
 
-swisha19.on("message", async msg => {
+creax19.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -301,7 +301,7 @@ swisha19.on("message", async msg => {
   }
 });
 
-swisha20.on("message", async msg => {
+creax20.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
@@ -316,23 +316,26 @@ swisha20.on("message", async msg => {
 
 
 
-swisha1.login("NjcwMjA2ODc1MjUzNDczMjkw.XirA6A.UkdW7u9O9ARelph1pyRaC-d7drI");
-swisha2.login("NjcwNjA5OTM1NjkxODA4Nzcx.Xiw4nA.WZFehud9sFxWlzVJ-9FjbOftkuI");
-swisha3.login("NjcyMTMyMzI1OTQ0OTgzNTcw.XjHCGw.2eO_1jRIzTWS_XW-xp5mhDqFpQU");
-swisha4.login("TOKEN");
-swisha5.login("TOKEN");
-swisha6.login("TOKEN");
-swisha7.login("TOKEN");
-swisha8.login("TOKEN");
-swisha9.login("TOKEN");
-swisha10.login("TOKEN");
-swisha11.login("TOKEN");
-swisha12.login("TOKEN");
-swisha13.login("TOKEN");
-swisha14.login("TOKEN");
-swisha15.login("TOKEN");
-swisha16.login("TOKEN");
-swisha17.login("TOKEN");
-swisha18.login("TOKEN");
-swisha19.login("TOKEN");
-swisha20.login("TOKEN");
+creax1.login("TOKEN");
+creax2.login("TOKEN");
+creax3.login("TOKEN");
+creax4.login("TOKEN");
+creax5.login("TOKEN");
+creax6.login("TOKEN");
+creax7.login("TOKEN");
+creax8.login("TOKEN");
+creax9.login("TOKEN");
+creax10.login("TOKEN");
+creax11.login("TOKEN");
+creax12.login("TOKEN");
+creax13.login("TOKEN");
+creax14.login("TOKEN");
+creax15.login("TOKEN");
+creax16.login("TOKEN");
+creax17.login("TOKEN");
+creax18.login("TOKEN");
+creax19.login("TOKEN");
+creax20.login("TOKEN");
+
+
+////Alıntıdır.///
