@@ -49,7 +49,7 @@ const creax17 = new Discord.Client();
 const creax18 = new Discord.Client();
 const creax19 = new Discord.Client();
 const creax20 = new Discord.Client();
-
+const creax21 = new Discord.Client();
 
 
 creax1.on("message", async msg => {
@@ -72,7 +72,7 @@ creax2.on("message", async msg => {
     const streamOptions = { seek: 5, volume: 0 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
+      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
         filter: "audioonly"
       });
       const dispatcher = connection.playStream(stream, streamOptions);
@@ -314,10 +314,23 @@ creax20.on("message", async msg => {
   }
 });
 
+creax21.on("message", async msg => {
+  if (msg.content.toLowerCase() === ".ses") {
+    const streamOptions = { seek: 5, volume: 0 };
+    var voiceChannel = msg.member.voiceChannel;
+    voiceChannel.join().then(connection => {
+      const stream = ytdl("", {
+        filter: "audioonly"
+      });
+      const dispatcher = connection.playStream(stream, streamOptions);
+    });
+  }
+});
+
 
 
 creax1.login("NzEwMTY3Nzg2NDYyMzgwMTAy.XrwhwA.OzyAD9f-ahKBtd3D8InhVbMqwbM");
-creax2.login("TOKEN");
+creax2.login("NzEwMTcxMDY0MDY3NDI0Mjc4.Xrwncw.8x1g6bwVNY6Vuzscu0i0vwSGvzs");
 creax3.login("TOKEN");
 creax4.login("TOKEN");
 creax5.login("TOKEN");
@@ -336,6 +349,7 @@ creax17.login("TOKEN");
 creax18.login("TOKEN");
 creax19.login("TOKEN");
 creax20.login("TOKEN");
+creax21.login("TOKEN");
 
 
 ////Alıntıdır.///
