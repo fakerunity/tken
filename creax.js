@@ -54,7 +54,7 @@ const creax21 = new Discord.Client();
 
 creax1.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 100 };
+    const streamOptions = { seek: 5, volume: 5 };
     var kanal = msg.member.voiceChannel;
     kanal.join().then(connection => {
       const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
@@ -69,7 +69,7 @@ creax1.on("message", async msg => {
 
 creax2.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
+    const streamOptions = { seek: 5, volume: 5 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
       const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
@@ -82,7 +82,7 @@ creax2.on("message", async msg => {
 
 creax3.on("message", async msg => {
   if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
+    const streamOptions = { seek: 5, volume: 5 };
     var voiceChannel = msg.member.voiceChannel;
     voiceChannel.join().then(connection => {
       const stream = ytdl("", {
