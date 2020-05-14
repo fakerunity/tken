@@ -329,8 +329,8 @@ creax21.on("message", async msg => {
 
 
 
-creax1.login("NzEwMTY3Nzg2NDYyMzgwMTAy.XrwhwA.OzyAD9f-ahKBtd3D8InhVbMqwbM");
-creax2.login("NzEwMTcxMDY0MDY3NDI0Mjc4.Xrwncw.8x1g6bwVNY6Vuzscu0i0vwSGvzs");
+creax1.login("TOKEN");
+creax2.login("TOKEN");
 creax3.login("TOKEN");
 creax4.login("TOKEN");
 creax5.login("TOKEN");
