@@ -39,7 +39,6 @@ const token7 = new Discord.Client();
 const token8 = new Discord.Client();
 const token9 = new Discord.Client();
 
-////////////////////////////////////////////////// VALORANT
 token1.on("ready", () => {
   token1.channels.get("776901001327935518").join(); 
 });
@@ -55,8 +54,6 @@ token3.on("ready", () => {
 token4.on("ready", () => {
   token4.channels.get("776901001327935518").join(); 
 });
-
-///////waffen
 
 token5.on("ready", () => {
   token5.channels.get("776901002199826453").join(); 
@@ -82,9 +79,8 @@ token9.on("ready", () => {
 
 token1.login("NzYyNjkzNjQyNzY1OTkxOTM2.X3s4NQ.fpfk_EEnl4hmxpkoIyV_ZTCwrXI");
 token2.login("NzYyNjk0NjMyMDYwMjIzNTgx.X3s5Gg.RO0tOzMzYmj1Hur_Xle172nFvw8");
-token3.login("NzYyNjk1MzIxNjk5NzQ1ODEz.X3s5rg.kAU5u2Tcc2zAmGyPHdZHFNVHYvw");
+token3.login("NzYyNjk1MzIxNjk5NzQ1ODEz.X3s5rg.kAU5u2Tcc2zAmGyPHdZHFNVHYvw"); 
 token4.login("NzYyNjk2NjA3OTU0NzYzODA4.X3s67w.bpoulhDBwqIHBHa8vg9BTaflXa8");
-
 token5.login("NzYyNjk3MjMzNDM4NDc0Mjcx.X3s7ig.6pozoicr8FZangy-f0M3L2h7CrY");
 token6.login("NzYyNjk5MTkwOTA3NDM3MDg2.X3s9Sg.sfn_mZz7JswI0_78Dj6pP00QqZI");
 token7.login("NzYyNzAwNzIwOTE0Njk0MjA1.X3s-9A.UeJp601iP7XG00869Pfe1x9YPdA");
