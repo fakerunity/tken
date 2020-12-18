@@ -29,327 +29,38 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const data = new Map();
 
-const creax1 = new Discord.Client();
-const creax2 = new Discord.Client();
-const creax3 = new Discord.Client();
-const creax4 = new Discord.Client();
-const creax5 = new Discord.Client();
-const creax6 = new Discord.Client();
-const creax7 = new Discord.Client();
-const creax8 = new Discord.Client();
-const creax9 = new Discord.Client();
-const creax10 = new Discord.Client();
-const creax11 = new Discord.Client();
-const creax12 = new Discord.Client();
-const creax13 = new Discord.Client();
-const creax14 = new Discord.Client();
-const creax15 = new Discord.Client();
-const creax16 = new Discord.Client();
-const creax17 = new Discord.Client();
-const creax18 = new Discord.Client();
-const creax19 = new Discord.Client();
-const creax20 = new Discord.Client();
-const creax21 = new Discord.Client();
+const token1 = new Discord.Client();
+const token2 = new Discord.Client();
+const token3 = new Discord.Client();
+const token4 = new Discord.Client();
 
 
-creax1.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 5 };
-    var kanal = msg.member.voiceChannel;
-    kanal.join().then(connection => {
-      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
-        filter: "audioonly"
-      })
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
+
+
+
+
+token1.on("ready", () => {
+  token1.channels.get("776901001327935518").join(); 
+});
+
+token2.on("ready", () => {
+  token2.channels.get("776901001327935518").join(); 
+});
+
+token3.on("ready", () => {
+  token3.channels.get("776901001327935518").join(); 
+});
+
+token4.on("ready", () => {
+  token4.channels.get("776901001327935518").join(); 
 });
 
 
 
-creax2.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 5 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax3.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 5 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax4.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax5.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax6.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 1500 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax7.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 1500 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("",   {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax8.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax9.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax10.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax11.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax12.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("https:www.youtube.comwatch?v=kd8tFn2qb7E", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax13.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax14.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax15.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax16.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 1500 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax17.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax18.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax19.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax20.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
-
-creax21.on("message", async msg => {
-  if (msg.content.toLowerCase() === ".ses") {
-    const streamOptions = { seek: 5, volume: 0 };
-    var voiceChannel = msg.member.voiceChannel;
-    voiceChannel.join().then(connection => {
-      const stream = ytdl("", {
-        filter: "audioonly"
-      });
-      const dispatcher = connection.playStream(stream, streamOptions);
-    });
-  }
-});
 
 
 
-creax1.login("TOKEN");
-creax2.login("TOKEN");
-creax3.login("TOKEN");
-creax4.login("TOKEN");
-creax5.login("TOKEN");
-creax6.login("TOKEN");
-creax7.login("TOKEN");
-creax8.login("TOKEN");
-creax9.login("TOKEN");
-creax10.login("TOKEN");
-creax11.login("TOKEN");
-creax12.login("TOKEN");
-creax13.login("TOKEN");
-creax14.login("TOKEN");
-creax15.login("TOKEN");
-creax16.login("TOKEN");
-creax17.login("TOKEN");
-creax18.login("TOKEN");
-creax19.login("TOKEN");
-creax20.login("TOKEN");
-creax21.login("TOKEN");
-
-
-////Alıntıdır.///
+token1.login("NzYyNjkzNjQyNzY1OTkxOTM2.X3s4NQ.fpfk_EEnl4hmxpkoIyV_ZTCwrXI");
+token2.login("NzYyNjk0NjMyMDYwMjIzNTgx.X3s5Gg.RO0tOzMzYmj1Hur_Xle172nFvw8");
+token3.login("NzYyNjk1MzIxNjk5NzQ1ODEz.X3s5rg.kAU5u2Tcc2zAmGyPHdZHFNVHYvw");
+token4.login("NzYyNjk2NjA3OTU0NzYzODA4.X3s67w.bpoulhDBwqIHBHa8vg9BTaflXa8");
