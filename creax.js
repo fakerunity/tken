@@ -130,6 +130,18 @@ token10.on("ready", () => {
   token10.channels.get("776900931479535646").join();
 });
 
+token11.on("ready", () => {
+  token11.channels.get("776900931479535646").join();
+});
+
+token12.on("ready", () => {
+  token12.channels.get("776900931479535646").join();
+});
+
+token13.on("ready", () => {
+  token13.channels.get("776900931479535646").join();
+});
+
 token10.on("ready", () => {
   token10.channels.get("776900931479535646").join();
 });
@@ -137,6 +149,123 @@ token10.on("ready", () => {
 token10.on("ready", () => {
   token10.channels.get("776900931479535646").join();
 });
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
 
 
 token1.login("NzYyNjkzNjQyNzY1OTkxOTM2.X3s4NQ.fpfk_EEnl4hmxpkoIyV_ZTCwrXI");
@@ -147,5 +276,58 @@ token5.login("NzYyNjk3MjMzNDM4NDc0Mjcx.X3s7ig.6pozoicr8FZangy-f0M3L2h7CrY");
 token6.login("NzYyNjk5MTkwOTA3NDM3MDg2.X3s9Sg.sfn_mZz7JswI0_78Dj6pP00QqZI");
 token7.login("NzYyNzAwNzIwOTE0Njk0MjA1.X3s-9A.UeJp601iP7XG00869Pfe1x9YPdA");
 token8.login("NzYyNzU3ODE0NDI2MTQwNjcz.X3t0HQ.YAN01Lc4b11xjfz3OPCRKxXIAYw");
-token9.login("NzYyNzU4NjYyNzc0MTk0MTc2.X3t0sg.N_o_1mBWERRWeYVhWB_SN360jME"); 
-token10.login("NzU3Mzc3MjM0NTYxNDAwOTY2.X2fglg.YQ70vfI6z7FdMFZFl9Ic-RM7w94"); 
+token9.login("NzYyNzU4NjYyNzc0MTk0MTc2.X3t0sg.N_o_1mBWERRWeYVhWB_SN360jME");
+token10.login("NzU3Mzc3MjM0NTYxNDAwOTY2.X2fglg.YQ70vfI6z7FdMFZFl9Ic-RM7w94");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjY0NDM5MDU0MTA2NzQ3.X2jsEA.YGZ1Q1KX7UKgS6qKlXRhKsUDnwg");
+token10.login("NzU3MjQ4OTg3NjQzNTEwODQ1.X2dpJQ.CCmBr7Uukt3RjzProb_vuJ3LK8g");
+token10.login("NzU3MjQ5NTU3OTcyMTIzNjg4.X2dprQ.dtCMp9sobOG4659psFHJawWwp1k");
+token10.login("NzU3MjUwMTI3NDYyMjY5MDA4.X2dqNQ.Uh3CcdvD5ljF2lZqVrd4-LXiHaE");
+token10.login("NzU3MjUwNjk4MDM0MjgyNTE2.X2dqvg.tYNyD85KhGS0eZMDnbUqyvlLCXk");
+token10.login("NzU3MjUxMjY3NzY3ODI4NTcz.X2drRg.UVDJVaEsBpMJltDXz4EiGgKzbf0");
+token10.login("NzU3MjUxODM3MzI0Njg5NTEx.X2drzQ.NCvXG3rmMLQFnFJHSjuEwvFP0Ok");
+
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
