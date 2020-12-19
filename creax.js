@@ -202,68 +202,68 @@ token28.on("ready", () => {
   token28.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token29.on("ready", () => {
+  token29.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token30.on("ready", () => {
+  token30.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token31.on("ready", () => {
+  token31.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token32.on("ready", () => {
+  token32.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token33.on("ready", () => {
+  token33.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token34.on("ready", () => {
+  token34.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token35.on("ready", () => {
+  token35.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token36.on("ready", () => {
+  token36.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token37.on("ready", () => {
+  token37.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token38.on("ready", () => {
+  token38.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token39.on("ready", () => {
+  token39.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token40.on("ready", () => {
+  token40.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token41.on("ready", () => {
+  token41.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token42.on("ready", () => {
+  token42.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token43.on("ready", () => {
+  token43.channels.get("776900931479535646").join();
 });
 
-token10.on("ready", () => {
-  token10.channels.get("776900931479535646").join();
+token44.on("ready", () => {
+  token44.channels.get("776900931479535646").join();
 });
 
 
@@ -287,25 +287,25 @@ token16.login("NzU3MjUwMTI3NDYyMjY5MDA4.X2dqNQ.Uh3CcdvD5ljF2lZqVrd4-LXiHaE");
 token17.login("NzU3MjUwNjk4MDM0MjgyNTE2.X2dqvg.tYNyD85KhGS0eZMDnbUqyvlLCXk");
 token18.login("NzU3MjUxMjY3NzY3ODI4NTcz.X2drRg.UVDJVaEsBpMJltDXz4EiGgKzbf0");
 token19.login("NzU3MjUxODM3MzI0Njg5NTEx.X2drzQ.NCvXG3rmMLQFnFJHSjuEwvFP0Ok");
+token20.login("NzU3MjUyOTc2NzUzNTA4NDc0.X2ds3Q.e674lAXfKlYa8hIC-jfHLfEBrx8");
+token21.login("NzU3MjUzNTQ3NDYwMTMzMDE2.X2dtZQ.dtxPItZsXmYl-dPFt8_aaa-MFgc");
+token22.login("NzU3MjU0MTE3NTY2NTc4NzI4.X2dt7Q.zgUYpAl0KNiM_FMX2bZWzzH5CRk");
+token23.login("NzU3MjU0Njg4NzUxMDkxNzIy.X2dudQ.PgHi1RjCdmVLPrFYCoTXPQfVoCY");
+token24.login("NzU3MjU1MjU4NDE3MjY2Njg4.X2du_Q.YD7kVndKPShm--JLiYRyKXgEnjc");
 
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
-token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token25.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token26.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token27.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token28.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token29.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token30.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token31.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token32.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token33.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token34.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token35.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+token36.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
+
 token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
 token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
 token10.login("NzU3NjYzODczMDMyNjUwNzc0.X2jrig.8BMrmWqXCTFhHybEeaS2cmG_1YY");
