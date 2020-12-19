@@ -38,6 +38,7 @@ const token6 = new Discord.Client();
 const token7 = new Discord.Client();
 const token8 = new Discord.Client();
 const token9 = new Discord.Client();
+const token10 = new Discord.Client();
 
 token1.on("ready", () => {
   token1.channels.get("776901001327935518").join(); 
@@ -75,6 +76,9 @@ token9.on("ready", () => {
   token9.channels.get("776901002199826453").join(); 
 });
 
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
 
 
 token1.login("NzYyNjkzNjQyNzY1OTkxOTM2.X3s4NQ.fpfk_EEnl4hmxpkoIyV_ZTCwrXI");
@@ -86,4 +90,4 @@ token6.login("NzYyNjk5MTkwOTA3NDM3MDg2.X3s9Sg.sfn_mZz7JswI0_78Dj6pP00QqZI");
 token7.login("NzYyNzAwNzIwOTE0Njk0MjA1.X3s-9A.UeJp601iP7XG00869Pfe1x9YPdA");
 token8.login("NzYyNzU3ODE0NDI2MTQwNjcz.X3t0HQ.YAN01Lc4b11xjfz3OPCRKxXIAYw");
 token9.login("NzYyNzU4NjYyNzc0MTk0MTc2.X3t0sg.N_o_1mBWERRWeYVhWB_SN360jME"); 
-
+token10.login("NzU3Mzc3MjM0NTYxNDAwOTY2.X2fglg.YQ70vfI6z7FdMFZFl9Ic-RM7w94"); 
