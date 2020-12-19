@@ -39,6 +39,56 @@ const token7 = new Discord.Client();
 const token8 = new Discord.Client();
 const token9 = new Discord.Client();
 const token10 = new Discord.Client();
+const token11 = new Discord.Client();
+const token12 = new Discord.Client();
+const token13 = new Discord.Client();
+const token14 = new Discord.Client();
+const token15 = new Discord.Client();
+const token16 = new Discord.Client();
+const token17 = new Discord.Client();
+const token18 = new Discord.Client();
+const token19 = new Discord.Client();
+const token20 = new Discord.Client();
+const token21 = new Discord.Client();
+const token22 = new Discord.Client();
+const token23 = new Discord.Client();
+const token24 = new Discord.Client();
+const token25 = new Discord.Client();
+const token26 = new Discord.Client();
+const token27 = new Discord.Client();
+const token28 = new Discord.Client();
+const token29 = new Discord.Client();
+const token30 = new Discord.Client();
+const token31 = new Discord.Client();
+const token32 = new Discord.Client();
+const token33 = new Discord.Client();
+const token34 = new Discord.Client();
+const token35 = new Discord.Client();
+const token36 = new Discord.Client();
+const token37 = new Discord.Client();
+const token38 = new Discord.Client();
+const token39 = new Discord.Client();
+const token40 = new Discord.Client();
+const token41 = new Discord.Client();
+const token42 = new Discord.Client();
+const token43 = new Discord.Client();
+const token44 = new Discord.Client();
+const token45 = new Discord.Client();
+const token46 = new Discord.Client();
+const token47 = new Discord.Client();
+const token48 = new Discord.Client();
+const token49 = new Discord.Client();
+const token50 = new Discord.Client();
+const token51 = new Discord.Client();
+const token52 = new Discord.Client();
+const token53 = new Discord.Client();
+const token54 = new Discord.Client();
+const token55 = new Discord.Client();
+const token56 = new Discord.Client();
+const token57 = new Discord.Client();
+const token58 = new Discord.Client();
+const token59 = new Discord.Client();
+const token60 = new Discord.Client();
 
 token1.on("ready", () => {
   token1.channels.get("776901001327935518").join(); 
@@ -74,6 +124,14 @@ token8.on("ready", () => {
 
 token9.on("ready", () => {
   token9.channels.get("776901002199826453").join(); 
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
+});
+
+token10.on("ready", () => {
+  token10.channels.get("776900931479535646").join();
 });
 
 token10.on("ready", () => {
