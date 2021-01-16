@@ -52,10 +52,10 @@ const data = new Map();
 
 
 
-client.login("tokenlerburaya")//Hesap Tokeni Token
+client.login("NzkxNzQ4OTQwMTkzODU3NTQ2.X-Tr5A.v0zhCOwVx3pLIiGXxUMwFemJk3k")//Hesap Tokeni Token
 
 client.on('ready', ()=>{
-client.channels.get('kanalidlerburyaa').join()
+client.channels.get('799757561351503886').join()
 })
 
 client1.login("")
