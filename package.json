@@ -5,9 +5,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "hypnos.js",
+  "main": "venom.js",
   "scripts": {
-    "start": "node hypnos.js"
+    "start": "node venom.js"
   },
   "dependencies": {
     "chalk": "^3.0.0",
