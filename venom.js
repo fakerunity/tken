@@ -98,17 +98,17 @@ client5.channels.get('832926698042818600').join()
 })
 
 
-client6.login("")
+client6.login("ODMyOTI5NDMzNzUyOTYxMDI1.YHq8GQ.lL6t_xEHgnegGX1ak_OuekE_peE")
 
 client6.on('ready', ()=>{
-client6.channels.get('KANAL ID').join()
+client6.channels.get('832926698042818600').join()
 })
 
 
-client7.login("")
+client7.login("ODMyOTMwNDAzMDMxNTgwNzAy.YHq88Q.GDXxin63BrPYhlL2rXqzT3Z3C7o")
 
 client7.on('ready', ()=>{
-client7.channels.get('KANAL ID').join()
+client7.channels.get('832926698042818600').join()
 })
 
 
