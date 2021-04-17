@@ -140,10 +140,10 @@ client11.channels.get('832926698042818600').join()
 })
 
 
-client12.login("")
+client12.login("ODMyOTM3ODQ3MTI4MDY0MDQw.YHrD9g.ZYj4ZzcQ5xfYJEXajUX2FgiAkoE")
 
 client12.on('ready', ()=>{
-client12.channels.get('KANAL ID').join()
+client12.channels.get('832926698042818600').join()
 })
 
 
