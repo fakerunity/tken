@@ -54,23 +54,25 @@ const data = new Map();
 
 client.login("ODMxOTA2MzgxMjQ1NzEwMzc3.YHcDRg.aPDzkzb352l6e7dqywVtBpogQxA")//Hesap Tokeni Token
 client.login("ODMxOTE1NTQ4ODk1MDg0NTY1.YHcLyA.FKjvQFRnZUMF0i7upMGwLt0OeAo")//Hesap Tokeni Token
-
+client.login("ODMyOTIwMzcxNzE5NTY5NDU4.YHqzsw.3skdqAM3v2sVK_gv4NC2n-NB-mE")
+client.login("ODMyOTIxNzMwNzI4ODUzNTE0.YHq04Q.-Wk56dEhffNJjqieJ-zgur0qEuk")
+client.login()
 
 client.on('ready', ()=>{
-client.channels.get('769806525694607382').join()
+client.channels.get('832637677961609327').join()
 })
 
 client1.login("")
 
 client1.on('ready', ()=>{
-client1.channels.get('769806525694607382').join()
+client1.channels.get('832637677961609327').join()
 })
 
 
 client2.login("")
 
 client2.on('ready', ()=>{
-client2.channels.get('KANAL ID').join()
+client2.channels.get('832637677961609327').join()
 })
 
 
