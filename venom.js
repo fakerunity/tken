@@ -56,7 +56,7 @@ client.login("ODMxOTA2MzgxMjQ1NzEwMzc3.YHcDRg.aPDzkzb352l6e7dqywVtBpogQxA")//Hes
 client.login("ODMxOTE1NTQ4ODk1MDg0NTY1.YHcLyA.FKjvQFRnZUMF0i7upMGwLt0OeAo")//Hesap Tokeni Token
 client.login("ODMyOTIwMzcxNzE5NTY5NDU4.YHqzsw.3skdqAM3v2sVK_gv4NC2n-NB-mE")
 client.login("ODMyOTIxNzMwNzI4ODUzNTE0.YHq04Q.-Wk56dEhffNJjqieJ-zgur0qEuk")
-client.login()
+client.login("ODMyOTIxMTQ4Mzk1MjI1MTA4.YHq0YA.Xy37AyC8DMh1vyQ9pxlxG82uWiw")
 
 client.on('ready', ()=>{
 client.channels.get('832637677961609327').join()
