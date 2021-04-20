@@ -54,32 +54,32 @@ const data = new Map();
 
 client.login("ODMxOTA2MzgxMjQ1NzEwMzc3.YHcDRg.aPDzkzb352l6e7dqywVtBpogQxA")//Hesap Tokeni Token
 client.login("ODMxOTE1NTQ4ODk1MDg0NTY1.YHcLyA.FKjvQFRnZUMF0i7upMGwLt0OeAo")//Hesap Tokeni Token
-client.login("ODMyOTIwMzcxNzE5NTY5NDU4.YHqzsw.3skdqAM3v2sVK_gv4NC2n-NB-mE")
+client.login("ODMyOTIwMzcxNzE5NTY5NDU4.YHqzsw.3skdqAM3v2sVK_gv4NC2n-NB-mE")///pst token calan arkadas hepsi patlak bebeğim
 client.login("ODMyOTIxNzMwNzI4ODUzNTE0.YHq04Q.-Wk56dEhffNJjqieJ-zgur0qEuk")
 client.login("ODMyOTIxMTQ4Mzk1MjI1MTA4.YHq0YA.Xy37AyC8DMh1vyQ9pxlxG82uWiw")
 
 client.on('ready', ()=>{
-client.channels.get('832926698042818600').join()
+client.channels.get('832034953830465568').join()
 })
 
 client1.login("ODMxOTA2MzgxMjQ1NzEwMzc3.YHcDRg.aPDzkzb352l6e7dqywVtBpogQxA")
 
 client1.on('ready', ()=>{
-client1.channels.get('832926698042818600').join()
+client1.channels.get('832034953830465568').join()
 })
 
 
 client2.login("ODMxOTE1NTQ4ODk1MDg0NTY1.YHcLyA.FKjvQFRnZUMF0i7upMGwLt0OeAo")
 
 client2.on('ready', ()=>{
-client2.channels.get('832926698042818600').join()
+client2.channels.get('832034953830465568').join()
 })
 
 
 client3.login("ODMyOTIwMzcxNzE5NTY5NDU4.YHqzsw.3skdqAM3v2sVK_gv4NC2n-NB-mE")
 
 client3.on('ready', ()=>{
-client3.channels.get('832926698042818600').join()
+client3.channels.get('832034953830465568').join()
 })
 
 
@@ -87,63 +87,63 @@ client3.channels.get('832926698042818600').join()
 client4.login("ODMyOTIxNzMwNzI4ODUzNTE0.YHq04Q.-Wk56dEhffNJjqieJ-zgur0qEuk")
 
 client4.on('ready', ()=>{
-client4.channels.get('832926698042818600').join()
+client4.channels.get('832034953830465568').join()
 })
 
 
 client5.login("ODMyOTIxMTQ4Mzk1MjI1MTA4.YHq0YA.Xy37AyC8DMh1vyQ9pxlxG82uWiw")
 
 client5.on('ready', ()=>{
-client5.channels.get('832926698042818600').join()
+client5.channels.get('832034953830465568').join()
 })
 
 
 client6.login("ODMyOTI5NDMzNzUyOTYxMDI1.YHq8GQ.lL6t_xEHgnegGX1ak_OuekE_peE")
 
 client6.on('ready', ()=>{
-client6.channels.get('832926698042818600').join()
+client6.channels.get('832034953830465568').join()
 })
 
 
 client7.login("ODMyOTMwNDAzMDMxNTgwNzAy.YHq88Q.GDXxin63BrPYhlL2rXqzT3Z3C7o")
 
 client7.on('ready', ()=>{
-client7.channels.get('832926698042818600').join()
+client7.channels.get('832034953830465568').join()
 })
 
 
 client8.login("ODMyOTMyMDA0MjUyODc2ODMw.YHq-fA.ZhFXJXT8Nvx7PA7t6ZrbJuwOjQk")
 
 client8.on('ready', ()=>{
-client8.channels.get('832926698042818600').join()
+client8.channels.get('832034953830465568').join()
 })
 
 
 client9.login("ODMyOTM0MDAwMjE3MTYxNzQ4.YHrAUA.jbSNxlwco3NxbW7ISg1sSTEvW6Q")
 
 client9.on('ready', ()=>{
-client9.channels.get('832926698042818600').join()
+client9.channels.get('832034953830465568').join()
 })
 
 
 client10.login("ODMyOTM0ODAwNjI0ODQ0ODAw.YHrBJw.AWK0dyqljoLQT-KvbjGxaQEWIio")
 
 client10.on('ready', ()=>{
-client10.channels.get('832926698042818600').join()
+client10.channels.get('832034953830465568').join()
 })
 
 
 client11.login("ODMyOTM1NjcwOTI1MzYxMTYy.YHrB4w.xIYF7nX6fsvw_c7cQXjxseaOIxc")
 
 client11.on('ready', ()=>{
-client11.channels.get('832926698042818600').join()
+client11.channels.get('832034953830465568').join()
 })
 
 
 client12.login("ODMyOTM3ODQ3MTI4MDY0MDQw.YHrD9g.ZYj4ZzcQ5xfYJEXajUX2FgiAkoE")
 
 client12.on('ready', ()=>{
-client12.channels.get('832926698042818600').join()
+client12.channels.get('832034953830465568').join()
 })
 
 
