@@ -26,10 +26,10 @@ const client = new Discord.Client();
 const data = new Map();
 
 
-client.login("NzY3ODQ5NjcxMTA3NTQ")//Hesap Tokeni Token
+client.login("NzE0MjA0NDA3MDc1NTY5NzA3.YJUJUg.Frpxy5WjZcy2_Vz4b__2tve44j")//Hesap Tokeni Token
 
 
 client.on('ready', ()=>{
-client.channels.get('777176835825336329').join()
+client.channels.get('715276281423331468').join()
 client.user.setPresence({ status: "dnd" });
 })
