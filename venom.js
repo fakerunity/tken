@@ -20,16 +20,23 @@ setInterval(() => {
 }, 280000) 
 const Discord = require('discord.js');
 const client = new Discord.Client();
+const client1 = new Discord.Client();
 
 
 
 const data = new Map();
 
 
-client.login("ODI3OTAyNjQ1NjI0NTA0MzUx.YJeg7g.h29f3r4PUMh0w0SP_5U7g8jOLIE")//Hesap Tokeni Token
+client.login("ODQxNjYzNTE1MDA1NTUwNjQy.YJqNaQ.Zu-A5Ac8lEoHpl_ch6iHRx9fNU8")//Hesap Tokeni Token
+client.login("ODQxNjgyMzM1Mzc5NzUwOTM1.YJqUHQ.c8-Cx853djaegJo-346g11eL1ak")
 
 
 client.on('ready', ()=>{
-client.channels.get('733952579620438058').join()
+client.channels.get('833051879822589972').join()
 client.user.setPresence({ status: "dnd" });
+})
+
+client1.on('ready', ()=>{
+client1.channels.get('833051741372940308').join()
+client1.user.setPresence({ status: "dnd" });
 })
