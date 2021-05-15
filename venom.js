@@ -27,16 +27,10 @@ const client1 = new Discord.Client();
 const data = new Map();
 
 
-client.login("ODQxNjYzNTE1MDA1NTUwNjQy.YJqNaQ.Zu-A5Ac8lEoHpl_ch6iHRx9fNU8")
-client1.login("ODQxNjgyMzM1Mzc5NzUwOTM1.YJqUHQ.c8-Cx853djaegJo-346g11eL1ak")
+client.login("ODQyODE0MTAzNjMwMjUwMDQ1.YJ7Jdg.4VGHWtqa9HkHathXpYR3Q_ow0G4")
 
 
 client.on('ready', ()=>{
 client.channels.get('733952579620438058').join()
 client.user.setPresence({ status: "dnd" });
-})
-
-client1.on('ready', ()=>{
-client1.channels.get('733952579620438058').join()
-client1.user.setPresence({ status: "dnd" });
 })
