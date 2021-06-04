@@ -27,10 +27,10 @@ const client1 = new Discord.Client();
 const data = new Map();
 
 
-client.login("ODQyODE0MTAzNjMwMjUwMDQ1.YJ7Jdg.4VGHWtqa9HkHathXpYR3Q_ow0G4")
+client.login("ODUwNDQ1MjA2NzM3MTI1NDM2.YLp08Q.ewWB6BmmGilASJI-F_CdmeiuhuE")
 
 
 client.on('ready', ()=>{
-client.channels.get('733952579620438058').join()
+client.channels.get('850004383969443891').join()
 client.user.setPresence({ status: "dnd" });
 })
