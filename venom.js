@@ -27,7 +27,7 @@ const client1 = new Discord.Client();
 const data = new Map();
 
 
-client.login("ODM4NjQ5MTQ0MDA3ODUyMDkz.YI-LQA.rJronwP3EJnqd7FsLTjMjdItt5Y")
+client.login("ODU2Njg5NzE1MDc1MzUwNTU4.YNEsow.SQGxQqEGoCF6AbTl8xW6ZP9Jwcs")
 
 
 client.on('ready', ()=>{
