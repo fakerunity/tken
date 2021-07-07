@@ -20,17 +20,17 @@ setInterval(() => {
 }, 280000) 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const client1 = new Discord.Client();
+
 
 
 
 const data = new Map();
 
 
-client.login("ODU2Njg5NzE1MDc1MzUwNTU4.YNEsow.SQGxQqEGoCF6AbTl8xW6ZP9Jwcs")
+client.login("NTYxMTMyMzU5MRT7DK1nBOHsLsoDKKKbmjm3HwM")
 
 
 client.on('ready', ()=>{
-client.channels.get('787669593391890482').join()
+client.channels.get('839216810641457203').join()
 client.user.setPresence({ status: "dnd" });
 })
